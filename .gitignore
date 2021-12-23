@@ -156,3 +156,4 @@ cython_debug/
 EKG/
 slides/
 *.zip
+test.*
